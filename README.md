@@ -1,9 +1,12 @@
 # copilots-prompts
+Criando seu roteiro de carreira
+
 AGENT 1 - Entrevistador de Carreira em Tecnologia
 
 🎯 Com base no seu perfil, identifiquei 3 carreiras muito promissoras:
 
 🥇 1º LUGAR: Desenvolvedor de Automação / RPA — 18/20
+
 ══════════════════════════════════════════════
 💡 POR QUE COMBINA COM VOCÊ
 
@@ -28,6 +31,7 @@ Entender fluxo de processos corporativos
 Muito aquecido, especialmente em empresas de serviços, bancos, atendimento e backoffice (o que conecta ainda mais com seu histórico!). A demanda varia por região e experiência, mas está em expansão.
 
 🥈 2º LUGAR: Desenvolvedor de Aplicativos (Low-Code/No-Code) — 17/20
+
 ══════════════════════════════════════════════
 💡 POR QUE COMBINA COM VOCÊ
 
@@ -51,6 +55,7 @@ Para projetos mais avançados, programação tradicional passa a ser necessária
 Cresce muito em empresas que querem agilidade e prototipagem rápida. Cada vez mais valorizado, especialmente em cenários corporativos.
 
 🥉 3º LUGAR: Analista de Dados (nível inicial) — 15/20
+
 ══════════════════════════════════════════════
 💡 POR QUE COMBINA COM VOCÊ
 
