@@ -26,3 +26,74 @@ INICIE COM:
 "Olá! Vou fazer perguntas sobre a vaga que você está estruturando. Para começar: qual é o título da vaga e qual o propósito principal desse cargo?"
 
 geralmente eu contribuo de formaa organizada primeiro do que eu aprendi com estudos e experiências vou usar
+
+*******************************************************************************************************************
+
+Olá! Vou fazer perguntas sobre a vaga que você está estruturando.
+Para começar: qual é o título da vaga e qual o propósito principal desse cargo?
+
+# Entrevista Estruturada – Vaga IA Engineer Júnior
+
+## Perguntas sobre a vaga
+**Copilot:** Olá! Vou fazer perguntas sobre a vaga que você está estruturando.  
+Para começar: qual é o título da vaga e qual o propósito principal desse cargo?  
+
+**Usuário:** IA ENGENIEER  
+
+**Copilot:** Entendido! Agora vamos para a próxima etapa:  
+Qual a senioridade esperada para essa vaga de IA Engineer e por que esse nível é necessário?  
+
+**Usuário:** junior  
+
+**Copilot:** Ótimo, então a vaga é para IA Engineer Júnior.  
+Seguindo a estrutura, vamos avançar:  
+Quais tecnologias, frameworks e práticas você considera essenciais para esse cargo?  
+
+**Usuário:** C#, Phyton, frameworks, SQL  
+
+**Copilot:** Perfeito, então o stack essencial inclui C#, Python, frameworks e SQL.  
+Agora vamos para o último ponto da entrevista estruturada:  
+Quais comportamentos ou atitudes você considera mais valorizados para essa vaga de IA Engineer Júnior?  
+
+**Usuário:** Comunicação e transparencia  
+
+**Copilot:** Excelente, temos todas as informações necessárias sobre a vaga.  
+Antes de eu gerar o resumo analítico estruturado, você confirma que já concluímos todas as etapas e que deseja que eu produza esse resumo?  
+
+**Usuário:** sim  
+
+---
+
+## Resumo Analítico da Vaga
+**Copilot:**  
+### 📌 Resumo da Vaga: IA Engineer Júnior
+
+#### 1. Título e Propósito
+- **Título:** IA Engineer  
+- **Propósito:** Atuar no desenvolvimento e implementação de soluções de Inteligência Artificial, apoiando projetos que envolvem automação, análise de dados e criação de modelos inteligentes.
+
+#### 2. Senioridade
+- **Nível:** Júnior  
+- **Justificativa:** A posição busca alguém em início de carreira, com potencial de aprendizado e crescimento, capaz de contribuir em tarefas técnicas sob supervisão de profissionais mais experientes.
+
+#### 3. Stack Tecnológico
+- **Linguagens:** C#, Python  
+- **Banco de Dados:** SQL  
+- **Frameworks:** Essenciais para suporte ao desenvolvimento de IA e integração de sistemas.  
+- **Práticas:** Boa organização de código, versionamento e aplicação de conceitos básicos de machine learning.
+
+#### 4. Soft Skills
+- **Comunicação:** Clareza na troca de informações com equipe e stakeholders.  
+- **Transparência:** Honestidade sobre limitações, progresso e desafios, fortalecendo a confiança no trabalho colaborativo.
+
+---
+
+## Entrevista Simulada
+**Copilot:** Perfeito, então vamos simular uma entrevista para a vaga de IA Engineer Júnior.  
+👉 Você poderia me contar sobre sua experiência prática com C# e Python?  
+
+**Usuário:** fui dev de um projeto de cadastro para um profissional MEI de Ar condicionados e também fiz todo controle de pedidos e emissão de notas fiscais da minha cidade  
+
+**Copilot:** Muito interessante!  
+👉 Você poderia detalhar como utiliz
+
